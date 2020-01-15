@@ -1,0 +1,36 @@
+
+total number of visitors: 83967
+total number of groups: 24875
+total groups left due to their set schedule: 0
+total people left due to their set schedule: 0
+groups who satisfied their wishList: 12592
+Pendulum
+Total groups: 2347
+Total people: 12602
+groups unable to ride due to age restriction: 50963
+groups unable to get on line: 913832
+Average waiting time per group: 11.0
+Ferriswheel
+Total groups: 3841
+Total people: 12902
+groups unable to ride due to age restriction: 2765
+groups unable to get on line: 36635182
+Average waiting time per group: 6.0
+Pendulum
+Total groups: 2358
+Total people: 12631
+groups unable to ride due to age restriction: 13669
+groups unable to get on line: 907206
+Average waiting time per group: 9.0
+Merry go Around
+Total groups: 1084
+Total people: 5738
+groups unable to ride due to age restriction: 32942
+groups unable to get on line: 839173
+Average waiting time per group: 12.0
+Ferriswheel
+Total groups: 3888
+Total people: 12868
+groups unable to ride due to age restriction: 974
+groups unable to get on line: 36614470
+Average waiting time per group: 5.0

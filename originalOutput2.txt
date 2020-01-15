@@ -1,0 +1,37 @@
+
+total number of visitors: 84828
+total number of groups: 25031
+total groups left due to their set schedule: 377
+total people left due to their set schedule: 1489
+groups who satisfied their wishList: 1074
+groups who had to leave due to no availability to line: 34875
+Flume
+Total groups: 1077
+Total people: 3558
+groups unable to ride due to age restriction: 1607
+groups unable to get on line: 59344
+Average waiting time per group: 23.0
+Roller Coaster
+Total groups: 2487
+Total people: 9636
+groups unable to ride due to age restriction: 13986
+groups unable to get on line: 35829
+Average waiting time per group: 37.0
+Pendulum
+Total groups: 2377
+Total people: 12534
+groups unable to ride due to age restriction: 29426
+groups unable to get on line: 2631
+Average waiting time per group: 11.0
+Merry go Around
+Total groups: 1122
+Total people: 5830
+groups unable to ride due to age restriction: 29482
+groups unable to get on line: 2790
+Average waiting time per group: 15.0
+Ferriswheel
+Total groups: 3957
+Total people: 12889
+groups unable to ride due to age restriction: 1282
+groups unable to get on line: 41258
+Average waiting time per group: 7.0

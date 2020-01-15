@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Ride
+comment0.text=\n\ Write\ a\ description\ of\ class\ Ride\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=outFile\ info
+comment1.target=Ride(java.io.PrintWriter,\ java.lang.String[])
+comment2.params=
+comment2.target=void\ updateTimeStep()
+comment3.params=
+comment3.target=void\ load()
+comment4.params=
+comment4.target=void\ unload()
+comment5.params=theGroup
+comment5.target=boolean\ checkAvailable(VisitorGroup)
+comment6.params=theGroup
+comment6.target=boolean\ checkAge(VisitorGroup)
+comment7.params=theGroup
+comment7.target=void\ joinLine(VisitorGroup)
+comment8.params=
+comment8.target=void\ printData()
+numComments=9

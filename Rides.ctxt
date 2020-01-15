@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Rides
+comment0.text=\n\ Write\ a\ description\ of\ class\ Rides\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=outFile\ ridesInfo
+comment1.target=Rides(java.io.PrintWriter,\ java.lang.String[][])
+comment2.params=
+comment2.target=java.util.ArrayList\ getRidesList()
+comment3.params=
+comment3.target=void\ updateTimeStep()
+numComments=4

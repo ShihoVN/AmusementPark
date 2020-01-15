@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=VisitorGroup
+comment0.text=\n\ Write\ a\ description\ of\ class\ VisitorGroup\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=VisitorGroup()
+comment2.params=configFile\ currentTime\ closeTime
+comment2.target=VisitorGroup(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ generateGroupType()
+comment4.params=
+comment4.target=void\ generateNumber()
+comment5.params=
+comment5.target=void\ generatePeopleTypes()
+comment6.params=
+comment6.target=void\ generateStaytime()
+comment7.params=configFile
+comment7.target=void\ generateRidesToRide(java.lang.String)
+comment8.params=allRides
+comment8.target=boolean\ findRide(Rides)
+numComments=9

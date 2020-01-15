@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=VisitorGroups
+comment0.text=\n\ Write\ a\ description\ of\ class\ VisitorGroups\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=outFile
+comment1.target=VisitorGroups(java.io.PrintWriter)
+comment2.params=newGroup
+comment2.target=void\ addGroup(VisitorGroup)
+comment3.params=newGroups
+comment3.target=void\ addGroups(java.util.ArrayList)
+comment4.params=allRides
+comment4.target=void\ findRide(Rides)
+comment5.params=
+comment5.target=void\ printData()
+numComments=6

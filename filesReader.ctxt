@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=filesReader
+comment0.text=\n\ Write\ a\ description\ of\ class\ ConfigFile\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=configFile
+comment1.target=filesReader(java.lang.String)
+comment2.params=
+comment2.target=int\ getParkSpace()
+comment3.params=configP\ type
+comment3.target=java.lang.String\ getrDetailwithScanner(java.util.Scanner,\ java.lang.String)
+comment4.params=
+comment4.target=java.util.ArrayList\ getRidesList()
+comment5.params=
+comment5.target=java.lang.String[][]\ getRides()
+comment6.params=type
+comment6.target=int[]\ getpDetail(java.lang.String)
+comment7.params=distribution
+comment7.target=int[]\ getpDistribution(java.lang.String)
+numComments=8

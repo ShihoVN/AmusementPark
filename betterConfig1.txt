@@ -1,0 +1,53 @@
+park 
+space 15000
+
+ride
+type Pendulum
+group adolescent young_adult
+space 200
+length 2
+capacity 40
+queue 100
+
+ride
+type Roller Coaster
+group teenagers young_adult adult
+space 500
+length 2
+capacity 30
+queue 200
+
+ride
+type Pendulum
+group adolescent young_adult
+space 200
+length 2
+capacity 40
+queue 100
+
+ride
+type Ferriswheel
+group adolescent teenager young_adult adult
+space 200
+length 5
+capacity 40
+queue 70
+
+ride
+type Ferriswheel
+group adolescent teenager young_adult adult
+space 200
+length 5
+capacity 40
+queue 70
+
+people
+arrival 25 5
+individual 40 30 30
+groupDistribution 15 50 35
+friendAge 30 40 60
+numberFriend 4 1
+numberChildren 3 1
+ageChild 12 4
+
+

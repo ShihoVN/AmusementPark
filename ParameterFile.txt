@@ -1,0 +1,12 @@
+ride
+type Flume
+number 2
+
+ride 
+type Merry go Around
+number 1
+
+ride 
+type Roller Coaster
+number 2
+
